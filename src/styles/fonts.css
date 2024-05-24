@@ -1,0 +1,50 @@
+/* ----------------------------- UbuntuSansMono ----------------------------- */
+@font-face {
+    font-family: UbuntuSansMono;
+    font-style: normal;
+    font-weight: 300;
+    src: url("../fonts/UbuntuSansMono/UbuntuSansMono-Regular.ttf")
+    format("truetype");
+  }
+  
+  @font-face {
+    font-family: UbuntuSansMono;
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/UbuntuSansMono/UbuntuSansMono-Regular.ttf")
+        format("truetype");
+  }
+  
+  @font-face {
+    font-family: UbuntuSansMono;
+    font-style: normal;
+    font-weight: 500;
+    src: url("../fonts/UbuntuSansMono/UbuntuSansMono-Medium.ttf")
+        format("truetype");
+  }
+  
+  @font-face {
+    font-family: UbuntuSansMono;
+    font-style: normal;
+    font-weight: 700;
+    src: url("../fonts/UbuntuSansMono/UbuntuSansMono-Bold.ttf")
+        format("truetype");
+  }
+  
+  @font-face {
+    font-family: UbuntuSansMono;
+    font-style: normal;
+    font-weight: 800;
+    src: url("../fonts/UbuntuSansMono/UbuntuSansMono-SemiBold.ttf")
+        format("truetype");
+  }
+  
+  @font-face {
+    font-family: UbuntuSansMono;
+    font-style: normal;
+    font-weight: 900;
+    src: url("../fonts/UbuntuSansMono/UbuntuSansMono-SemiBold.ttf")
+        format("truetype");
+  }
+
+  
